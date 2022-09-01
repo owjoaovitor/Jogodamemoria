@@ -1,5 +1,5 @@
 #  🃏Jogo da memoria Responsivo 🃏
-Um jogo responsivo simples feito com Html, css e javascript
+
 <br>
 
 ![login](https://user-images.githubusercontent.com/92586786/187911933-9c9f6a9d-39f0-4e58-8cf7-091958967a41.jpg)
