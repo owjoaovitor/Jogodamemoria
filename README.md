@@ -1,3 +1,6 @@
 #  🃏Jogo da memoria Responsivo 🃏
-![game](https://user-images.githubusercontent.com/92586786/184545867-d8bde460-cc75-46ae-80fd-cd13375942cf.jpg) 
-![login](https://user-images.githubusercontent.com/92586786/184546017-e5d64917-53c8-4d7e-9305-e70dd2bd263e.jpg)
+Um jogo responsivo simples feito com Html, css e javascript
+<br>
+
+![login](https://user-images.githubusercontent.com/92586786/187911933-9c9f6a9d-39f0-4e58-8cf7-091958967a41.jpg)
+![game](https://user-images.githubusercontent.com/92586786/187911912-dd14ec83-f1f6-45f6-b108-1f4ef6db1498.jpg)
