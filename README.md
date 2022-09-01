@@ -1,4 +1,4 @@
-#  🃏Jogo da memoria Responsivo 🃏
+#  🃏Jogo da memoria 🃏
 
 <div align="center">
 <img height="440" width="340"src="https://user-images.githubusercontent.com/92586786/187911933-9c9f6a9d-39f0-4e58-8cf7-091958967a41.jpg"/>
